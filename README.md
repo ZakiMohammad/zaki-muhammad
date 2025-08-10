@@ -22,11 +22,12 @@
 ---
 
 ## 📂 Featured Projects
-| Project | Description | Tech |
+### Coming Soon
+<!-- | Project | Description | Tech |
 |---------|-------------|------|
 | [Project 1](#) | Short description of your project | Node.js, React, AWS |
 | [Project 2](#) | Short description of your project | Next.js, PostgreSQL |
-| [Project 3](#) | Short description of your project | Node.js, GraphQL |
+| [Project 3](#) | Short description of your project | Node.js, GraphQL | -->
 
 ---
 
